@@ -9,3 +9,8 @@
 | review or compare your own work.                          |
 |_______________________Good_Luck___________________________|*/
 
+public String porkyPig(String something)
+{
+    String out = "Bdap bdap bb " + something;
+    return out;
+}
